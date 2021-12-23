@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AtalaySezen
 - 👀 I’m interested in Html/Css/Javascript/Angular 🧮
-- 🌱 I’m currently learning Javascript/Angular and Python in my free times 🐜
+- 🌱 I’m currently learning Javascript/React and Python in my free times 🐜
 - 💞️ Looking for examples or projects to improve myself ⏰
 - 📫 How to reach me Github 
 

@@ -12,7 +12,7 @@
 - 🌱 I’m currently developing myself in Vanilla JS.  
   
 
-- ⚡ Fun fact: I hope I will learn React one day. But learning Javascript progress never end 🤔   
+- ⚡ Fun fact: I hope I will learn Angular one day. But learning Javascript progress never end 🤔   
 
 <br/>  
 

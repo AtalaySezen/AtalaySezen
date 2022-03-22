@@ -43,9 +43,6 @@
 
 <br/>    
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=atalaysezen&cover_image=true&theme=natemoo-re&bar_color=dce5dc&bar_color_cover=false" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AtalaySezen&&style=flat-square" align="center" />

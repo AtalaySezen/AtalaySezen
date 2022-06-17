@@ -9,10 +9,10 @@
 - 🔭 I’m currently working on Javascript-HTML5-CSS.  
   
 
-- 🌱 I’m currently developing myself in Vanilla JS.  
+- 🌱 I’m currently developing myself in Vanilla JS & Angular.  
   
 
-- ⚡ Fun fact: I hope I will learn React one day. But learning Javascript progress never end 🤔   
+- ⚡ Fun fact: I hope I will learn Angular one day. But learning Javascript progress never end 🤔   
 
 <br/>  
 

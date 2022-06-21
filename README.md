@@ -1,27 +1,12 @@
 <div align="center">
 <img src="https://github.com/AtalaySezen/AtalaySezen/blob/main/header.png" align="center" style="width: 100%" />
 </div>  
+<div align="center">Helllo I`m Atalay Sezen </div>  
   
-
-### <div align="center">Helllo I`m Atalay Sezen. </div>  
-  
-
-- 🔭 I’m currently working on Javascript-HTML5-CSS.  
-  
-
 - 🌱 I’m currently developing myself in Vanilla JS & Angular.  
   
-
 - ⚡ Fun fact: I hope I will learn Angular one day. But learning Javascript progress never end 🤔   
-
-<br/>  
-
-
-
-<br/>  
-
-
-## Connect with me  
+<h1 align="center">Connect with me</h1>
 <div align="center">
 <a href="https://github.com/AtalaySezen" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -39,20 +24,3 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>    
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=AtalaySezen&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

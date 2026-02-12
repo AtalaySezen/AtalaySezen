@@ -12,3 +12,8 @@
 <p align="center">
   📬 Reach me at: <a href="mailto:atalaysezen@yahoo.com.tr">atalaysezen@yahoo.com.tr</a>
 </p>
+
+<p>
+  42 65 74 74 65 72 20 57 65 62 3F 20 57 6F 72 6B 69 6E 67 20 6F 6E 20 69 74 2E
+</p>
+
